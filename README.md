@@ -1,4 +1,4 @@
-# Prova Individual - Desenvolvimento Web
-## (1º Bimestre - Universidade Positivo) 
+# Individual Test - Web Development
+## (2nd Bimester - Positivo University)
 
-> Layout de página de login/cadastro para a matéria de Desenvolvimento Web 1
+> Login/register page
